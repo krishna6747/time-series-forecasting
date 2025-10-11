@@ -18,16 +18,16 @@ A comprehensive machine learning project that compares classical and deep learni
 
 **Time Series Forecasting**
 ML project comparing LSTM, autoregressive, and baseline models for time series prediction. Includes data generation, model training, evaluation metrics, and visualization.
-**Models**: Naive Baseline, AR(5), LSTM
-**Metrics**: RMSE, MAE, R²
-**Output**: Performance comparison plots and future forecasts
+- **Models**: Naive Baseline, AR(5), LSTM
+- **Metrics**: RMSE, MAE, R²
+- **Output**: Performance comparison plots and future forecasts
 
 **Implementation**
 
-**Data**: Synthetic time series with realistic components (trend, seasonality, noise)
-**Models**: Naive baseline, AR(5) autoregressive model, LSTM neural network
-**Evaluation**: RMSE, MAE, R² score metrics
-**Output**: Comparison plots, residual analysis, future predictions
+- **Data**: Synthetic time series with realistic components (trend, seasonality, noise)
+- **Models**: Naive baseline, AR(5) autoregressive model, LSTM neural network
+- **Evaluation**: RMSE, MAE, R² score metrics
+- **Output**: Comparison plots, residual analysis, future predictions
 
 **Results**
 The LSTM model outperforms traditional baselines on this dataset while maintaining reasonable computational efficiency. The project includes comparative visualizations and performance rankings.
